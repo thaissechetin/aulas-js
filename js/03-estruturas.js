@@ -71,6 +71,8 @@ let vendas = {
 
 console.log(`O produto ${vendas.produto} foi comprado em ${vendas.dataCompra} com prazo de entrega de até ${vendas.prazo} dias úteis.`);
 
+//commit ok//
+
 
 
 

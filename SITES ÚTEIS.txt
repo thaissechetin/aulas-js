@@ -1,0 +1,53 @@
+--SITES ÚTEIS PARA CSS
+
+-CSS em geral
+https://tableless.github.io/iniciantes/manual/css/
+https://www.chiefofdesign.com.br/css/
+
+-Sobre Box Model e a mudança para box-sizing: border-box
+https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing
+
+-Ferramentas online de recursos CSS
+https://htmlcheatsheet.com/css/
+https://cssreference.io/
+https://cssgradient.io/
+
+-Flexbox
+origamid.com/projetos/flexbox-guia-exemplo
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+-Animações no CSS
+https://www.youtube.com/watch?v=zWmaohjrkRw
+https://www.alura.com.br/artigos/css-animacoes-com-transitions-animations
+
+-Media Query
+w3schools.com/cssref/css3_pr_mediaquery.asp
+
+-Função clamp()
+https://desenvolvimentoparaweb.com/css/textos-responsivos-com-css-clamp/
+
+-Unidades de medidas (PX, %, REM, VH, VW e outras)
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
+https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/
+
+
+***
+
+-Canal Curso em Vídeo (Professor Guanabara)
+https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
+
+***
+
+-MDN - Mozilla Developer Network
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
+
+-Tableless - Guia de Iniciantes
+https://tableless.github.io/iniciantes/manual/html/
+
+-Validação de código
+https://validator.w3.org/
+
+***
+
+
+

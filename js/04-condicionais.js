@@ -25,19 +25,19 @@ let aluno = "João";
 let nota1 = 9;
 let nota2 = 8;
 let media = (nota1 + nota2) / 2;
-let faltas = 30
+let faltas = 18; 
 
 console.log (`Aluno: ${aluno}`);
 console.log (` Notas:${nota1} e ${nota2}`);
 console.log (`Média: ${media.toFixed(1)}`);/* toFixed, limita as casas decimais */
 console.log(`Faltas: ${faltas}`);
 
-if(media >= 7){
+/* if(media >= 7){
     console.log("aprovado");
 
 } else {
     console.log ("reprovado");
-}
+} */
 
 //refatoração//
 let situacao;

@@ -96,6 +96,11 @@ formulario.addEventListener("submit", function(event){
 });
 
 
+/* Desafio
+Claculae média, definir situação e criar elemento (cria conteúdo)
+dividir em funções distintas, isoladas,sem quebrar sua aplicabilidade  */
+
+
 
 
 

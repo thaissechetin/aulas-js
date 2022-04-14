@@ -25,6 +25,14 @@ ESTADO
 FULANO DA SILVA É DA CIDADE DE SÃO PAULO E TEM 20 ANOS.
 */
 
+let dadosPessoais = ["Thaís Sechetin", 34, "São Paulo", "Comunicação Social", "Kantar IBOPE Media"]
+console.log(`${dadosPessoais[0]} tem ${dadosPessoais[1]} anos, mora na cidade de ${dadosPessoais[2]}.É formada em ${dadosPessoais[3]} e trabalhou na ${dadosPessoais[4]}.` );
+console.log ("***********************************");
+
+let produtosOnline = ["Disco de Vinil", "camiseta", 3, 2, 1, 325.00, 269.98, 99.98, "entrega expressa", "retirada na loja", "motoboy"]
+console.log (`O produto ${produtosOnline[0]} possui ${produtosOnline[4]} unidades disponíveis, no valor de ${produtosOnline[6]}, com ${produtosOnline[9]}.`);
+console.log("******************************");
+
 
 let cadastro = ["Edson Arantes", 81, "Três Corações", "Minas Gerais"]
 
@@ -49,7 +57,42 @@ console.log(filme.genero);
 console.log(filme.ano);
 console.log(filme.premios);
 
-console.log(`${filme.titulo} foi lançado em ${filme.ano}, é do gênero ${filme.genero} e ganhou o prêmio no ${filme.premios}.`)
+console.log(`${filme.titulo} foi lançado em ${filme.ano}, é do gênero ${filme.genero} e ganhou o prêmio no ${filme.premios}.`);
+console.log("***************************************");
+
+let titulos = {
+    time: "Palmeiras",
+    competicao: "Libertadores",
+    ano: 2022,
+    tecnico: "Abel Ferreira"
+    
+};
+
+console.log(titulos.time);
+console.log(titulos.competicao);
+console.log(titulos.ano);
+console.log(titulos.tecnico);
+
+console.log(`Em ${titulos.ano}, o ${titulos.time} ganhou a ${titulos.competicao} com o técnico ${titulos.tecnico}.`);
+
+console.log("********************************");
+
+let series = {
+    drama: "Desperate Housewives",
+    comedia: "Seinfeld",
+    desenho: "Simpsons",
+    reality: "Ru Paul´s Drag Race",
+    acao: "Breaking Bad",
+    suspense: "Stranger Things"
+
+};
+
+console.log(series.drama);
+console.log(series.desenho);
+console.log(series.acao);
+
+console.log(`Minhas séries favoritas são essas, na seguinte ordem: 1- ${series.comedia}, 2- ${series.reality}, 3- ${series.drama}, 4- ${series.suspense}, 5- ${series.desenho} e ${series.acao}.`);
+console.log("*****************************");
 
 
 /* exercício de objeto 
